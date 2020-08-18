@@ -1,3 +1,5 @@
+#The dataset can be accessed using https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2Fspecdata.zip
+
 pollutantmean<-function(directory, pollutant, id)
 {
 
